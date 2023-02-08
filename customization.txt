@@ -1,0 +1,4 @@
+plt.rcParams["figure.figsize"] = (12,7)
+sns.set(rc={'axes.facecolor':'#f9ecf2', 'figure.facecolor':'#f3d8e5'}) #tło
+
+"#ff99cc" #kolor dla wykresów
